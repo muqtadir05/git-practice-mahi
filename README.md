@@ -2,17 +2,33 @@
 
 
 
-\## Name
+\## About the Project
+
+
+
+This is a simple Python project created for practicing Git and GitHub.
+
+
+
+\## Features
+
+
+
+\- Basic calculator operations
+
+\- Git commits
+
+\- Branch creation
+
+\- Branch merging
+
+\- GitHub repository management
+
+
+
+\## Author
+
+
 
 Mahi
-
-
-
-\## Project Description
-
-This project is created to practice Git and GitHub.
-
-
-
-It includes a simple Python program and basic calculator functions.
 

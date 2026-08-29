@@ -30,5 +30,5 @@ This is a simple Python project created for practicing Git and GitHub.
 
 
 
-Mahi
+Muqtadir Mahi
 
